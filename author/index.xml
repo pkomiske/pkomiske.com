@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrick T. Komiske III</title>
+    <link>https://pkomiske.com/author/</link>
+      <atom:link href="https://pkomiske.com/author/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patrick T. Komiske III</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Patrick T. Komiske III</copyright>
+    <image>
+      <url>https://pkomiske.com/author/avatar_hu3d0039a14b59906956c0563d0e0e0b67_366524_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Patrick T. Komiske III</title>
+      <link>https://pkomiske.com/author/</link>
+    </image>
+    
+  </channel>
+</rss>

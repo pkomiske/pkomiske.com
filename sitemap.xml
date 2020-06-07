@@ -3,39 +3,74 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://pkomiske.com/</loc>
+    <lastmod>2017-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://pkomiske.com/talk/boost2017/</loc>
+    <lastmod>2017-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://pkomiske.com/talk/</loc>
+    <lastmod>2017-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/nelson-bighetti/</loc>
+    <loc>https://pkomiske.com/publication-type/2/</loc>
+    <lastmod>2016-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://pkomiske.com/authors/</loc>
+    <lastmod>2016-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://pkomiske.com/publication/dlincolor/</loc>
+    <lastmod>2016-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://pkomiske.com/author/eric-m.-metodiev/</loc>
+    <lastmod>2016-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://pkomiske.com/author/matthew-d.-schwartz/</loc>
+    <lastmod>2016-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://pkomiske.com/author/patrick-t.-komiske/</loc>
+    <lastmod>2016-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pkomiske.com/publication_types/</loc>
+    <lastmod>2016-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pkomiske.com/publication/</loc>
+    <lastmod>2016-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pkomiske.com/author/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pkomiske.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pkomiske.com/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pkomiske.com/tags/</loc>
   </url>
   
 </urlset>
