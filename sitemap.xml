@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pkomiske.com/talk/scfw2020/</loc>
-    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
+    <loc>https://pkomiske.com/project/energyflow/</loc>
+    <lastmod>2020-09-12T23:38:16-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://pkomiske.com/</loc>
+    <lastmod>2020-09-12T23:38:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pkomiske.com/project/</loc>
+    <lastmod>2020-09-12T23:38:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pkomiske.com/project/eecs/</loc>
+    <lastmod>2020-08-12T23:38:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pkomiske.com/talk/scfw2020/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,23 +33,23 @@
   </url>
   
   <url>
+    <loc>https://pkomiske.com/project/wasserstein/</loc>
+    <lastmod>2020-07-12T23:38:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pkomiske.com/project/mod/</loc>
+    <lastmod>2020-06-12T23:38:16-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pkomiske.com/talk/genoa2020/</loc>
     <lastmod>2020-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pkomiske.com/project/energyflow/</loc>
-    <lastmod>2020-04-12T23:38:16-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pkomiske.com/project/mod/</loc>
-    <lastmod>2020-04-12T23:38:16-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pkomiske.com/project/</loc>
-    <lastmod>2020-04-12T23:38:16-04:00</lastmod>
+    <loc>https://pkomiske.com/project/eventgen/</loc>
+    <lastmod>2020-05-12T23:38:16-04:00</lastmod>
   </url>
   
   <url>
