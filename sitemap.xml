@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pkomiske.com/project/energyflow/</loc>
-    <lastmod>2020-09-12T23:38:16-04:00</lastmod>
+    <loc>https://pkomiske.com/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pkomiske.com/</loc>
+    <loc>https://pkomiske.com/talk/cepc2020/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pkomiske.com/talk/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pkomiske.com/project/energyflow/</loc>
     <lastmod>2020-09-12T23:38:16-04:00</lastmod>
   </url>
   
@@ -24,11 +34,6 @@
   
   <url>
     <loc>https://pkomiske.com/talk/scfw2020/</loc>
-    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pkomiske.com/talk/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
   </url>
   
